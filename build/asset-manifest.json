@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6db5fb2.css",
+    "main.js": "/static/js/main.79e93caf.js",
+    "static/media/slider2.jpg": "/static/media/slider2.76caed1d1fb562d4b03f.jpg",
+    "static/media/bizhaqimizda.jpg": "/static/media/bizhaqimizda.ad122e3643b650c89a05.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.f2020d0d2b15dd843504.jpg",
+    "static/media/bizhaqimizda img1.png": "/static/media/bizhaqimizda img1.321dd8216338d9a8f076.png",
+    "static/media/slider1.jpg": "/static/media/slider1.7e4bb07f2a8606c4ede0.jpg",
+    "static/media/hamkor1.png": "/static/media/hamkor1.87f7f875b35506d8fa32.png",
+    "static/media/impuls3.jpg": "/static/media/impuls3.d778f419a0d78fb71908.jpg",
+    "static/media/hamkor3.png": "/static/media/hamkor3.04bd45519308ea4e0653.png",
+    "static/media/impuls1.jpg": "/static/media/impuls1.5b44e6e292910408d41b.jpg",
+    "static/media/impuls2.jpg": "/static/media/impuls2.0b77b830656c88eeb16e.jpg",
+    "static/media/5.jpg": "/static/media/5.cd168b4f2325194813a3.jpg",
+    "static/media/4.jpg": "/static/media/4.626bace7344526957bb4.jpg",
+    "static/media/hamkor2.png": "/static/media/hamkor2.4ab2c985c56b9e3769ea.png",
+    "static/media/7.jpg": "/static/media/7.69ad830c467ad947f8ff.jpg",
+    "static/media/3.jpg": "/static/media/3.4fc3ac3c3e049a3ffa0d.jpg",
+    "static/media/hamkor4.png": "/static/media/hamkor4.94f04df1f7ab29f0bed1.png",
+    "static/media/hamkor5.png": "/static/media/hamkor5.9cbfbd5f26f5b0ad9e9e.png",
+    "static/media/2.jpg": "/static/media/2.baf4adff21209144aa3b.jpg",
+    "static/media/6.jpg": "/static/media/6.618abe9bf5dc60e9dfea.jpg",
+    "index.html": "/index.html",
+    "main.d6db5fb2.css.map": "/static/css/main.d6db5fb2.css.map",
+    "main.79e93caf.js.map": "/static/js/main.79e93caf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6db5fb2.css",
+    "static/js/main.79e93caf.js"
+  ]
+}
